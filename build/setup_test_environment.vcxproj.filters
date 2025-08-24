@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\examples\bridge32\build\CMakeFiles\b75e511a5716238ddde1e4851dad3e3a\setup_test_environment.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\dev\examples\bridge32\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\dev\examples\bridge32\build\CMakeFiles\setup_test_environment" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{646C2CF9-D49D-35FD-B601-7E83CEDD8363}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
