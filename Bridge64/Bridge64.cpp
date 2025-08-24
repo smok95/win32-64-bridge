@@ -38,7 +38,7 @@ extern "C" {
     BRIDGE64_API double Multiply(double a, double b) {
         return g_ipcClient ? g_ipcClient->Multiply(a, b) : 0.0;
     }
-
+    
     BRIDGE64_API double Divide(double a, double b) {
         return g_ipcClient ? g_ipcClient->Divide(a, b) : 0.0;
     }
